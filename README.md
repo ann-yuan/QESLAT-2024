@@ -75,12 +75,11 @@
 #### 3.1.1 &emsp;计算方法  
 &emsp;&emsp;本次评测标准完全由人工进行打分，手语数字人的可读性由一套计算方法来提供，评测手语数字人是否连贯流畅、地道清晰，本项得分是所有打分的算术平均值，计算见如下公式：  
 
- 3```math
-R = \frac\{1}{n} \sum_{i=1}^\n\x_i$  
+$R = \frac{1}{n} {\textstyle \sum_{i=1}^{n}x_{i}}  $
 
 &emsp;&emsp;式中：  
-&emsp;&emsp;\$n\$——&emsp;评价人员数量；  
-&emsp;&emsp;\$x_i\$——&emsp;第位评价人员对结果数据的打分。  
+&emsp;&emsp; \$n\$ ——&emsp;评价人员数量；  
+&emsp;&emsp; \$x_i\$ ——&emsp;第位评价人员对结果数据的打分。  
 
   
 
@@ -105,12 +104,12 @@ R = \frac\{1}{n} \sum_{i=1}^\n\x_i$
 ### 3.2&emsp;手语数字人表情  
 #### 3.2.1&emsp;计算方法  
 &emsp;&emsp;本次评测标准完全由人工进行打分，手语数字人的表情得分由一套计算方法来提供，评测手语数字人是否打出标准表情。本项得分是所有打分的算术平均值，计算见如下公式：  
- 3```math
-R = \frac\{1}{n} \sum_{i=1}^\n\x_i$  
+
+$R = \frac{1}{n} {\textstyle \sum_{i=1}^{n}x_{i}}  $
 
 &emsp;&emsp;式中：  
-&emsp;&emsp;n——&emsp;评价人员数量；  
-&emsp;&emsp;x_i——&emsp;第位评价人员对结果数据的打分。  
+&emsp;&emsp; \$n\$ ——&emsp;评价人员数量；  
+&emsp;&emsp; \$x_i\$ ——&emsp;第位评价人员对结果数据的打分。  
 
   
 
