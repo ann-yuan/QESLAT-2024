@@ -75,7 +75,7 @@
 #### 3.1.1 &emsp;计算方法  
 &emsp;&emsp;本次评测标准完全由人工进行打分，手语数字人的可读性由一套计算方法来提供，评测手语数字人是否连贯流畅、地道清晰，本项得分是所有打分的算术平均值，计算见如下公式：  
 
-$R = \frac{1}{n} {\textstyle \sum_{i=1}^{n}x_{i}}  $
+![Image text](https://github.com/ann-yuan/lzygjzs/blob/main/gs1.png)
 
 &emsp;&emsp;式中：  
 &emsp;&emsp; \$n\$ ——&emsp;评价人员数量；  
@@ -105,7 +105,7 @@ $R = \frac{1}{n} {\textstyle \sum_{i=1}^{n}x_{i}}  $
 #### 3.2.1&emsp;计算方法  
 &emsp;&emsp;本次评测标准完全由人工进行打分，手语数字人的表情得分由一套计算方法来提供，评测手语数字人是否打出标准表情。本项得分是所有打分的算术平均值，计算见如下公式：  
 
-$R = \frac{1}{n} {\textstyle \sum_{i=1}^{n}x_{i}}  $
+![Image text](https://github.com/ann-yuan/lzygjzs/blob/main/gs1.png)
 
 &emsp;&emsp;式中：  
 &emsp;&emsp; \$n\$ ——&emsp;评价人员数量；  
