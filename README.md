@@ -37,6 +37,9 @@
 
 &emsp;&emsp;上面图例是给机器识别心理活动波长，做一个类似于“渐变”的表情变化过程。
 
+&emsp;&emsp;解读：y上半轴表示正面情绪作用，y下半轴表示负面情绪作用；x右半轴表示正常表情，k斜率表示手势动作快慢。
+![Image text](https://github.com/ann-yuan/lzygjzs/blob/main/table1.png)
+
 &emsp;手语演示：  
 &emsp;&emsp;![image](https://github.com/ann-yuan/lzygjzs/blob/main/video1.gif)
 
@@ -51,6 +54,9 @@
 ![Image text](https://github.com/ann-yuan/lzygjzs/blob/main/2.png)
 
 &emsp;&emsp;上面图例是给机器识别心理活动波长，做一个类似于“渐变”的表情变化过程。
+
+&emsp;&emsp;解读：y上半轴表示正面情绪作用，y下半轴表示负面情绪作用；x右半轴表示正常表情，k斜率表示手势动作快慢。
+![Image text](https://github.com/ann-yuan/lzygjzs/blob/main/table2.png)
 
 &emsp;手语演示：  
 &emsp;&emsp;![image](https://github.com/ann-yuan/lzygjzs/blob/main/video2.gif)
