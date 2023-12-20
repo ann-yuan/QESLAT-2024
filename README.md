@@ -31,7 +31,7 @@
 &emsp;&emsp;&emsp;女儿②/病/可能②，带❶/医院/速度  
 &emsp;&emsp;手势级标注：  
 &emsp;&emsp;&emsp;女-矮/病/可能②【疑问】，带❶/医生-家/速度
-
+![Image text]https://github.com/ann-yuan/lzygjzs/blob/main/1.png
 &emsp;手语演示：  
 &emsp;&emsp;（视频，包括演示人、手势对应词，表情）
 
