@@ -79,8 +79,8 @@
 R = \frac\{1}{n} \sum_{i=1}^\n\x_i$  
 
 &emsp;&emsp;式中：  
-&emsp;&emsp;n——&emsp;评价人员数量；  
-&emsp;&emsp;x_i——&emsp;第位评价人员对结果数据的打分。  
+&emsp;&emsp;\$n\$——&emsp;评价人员数量；  
+&emsp;&emsp;\$x_i\$——&emsp;第位评价人员对结果数据的打分。  
 
   
 
