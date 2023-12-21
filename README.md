@@ -46,9 +46,9 @@
 &emsp;&emsp;![image](https://github.com/ann-yuan/lzygjzs/blob/main/video1.gif)
 
 * &emsp;例2：  
-&emsp;书面语：为了赢得比赛，儿子一直在专心训练。
+&emsp;书面语：为了赢得比赛，儿子一直在专心训练。  
 &emsp;手语转写文本：  
-&emsp;&emsp;词级标注：
+&emsp;&emsp;词级标注：  
 &emsp;&emsp;&emsp;为/比赛/赢②，儿子②/专心/训练/一直  
 &emsp;&emsp;手势级标注：  
 &emsp;&emsp;&emsp;为/比较/胜利②，男-矮/认真【眼睛同时向下看】-心/练习/一直
